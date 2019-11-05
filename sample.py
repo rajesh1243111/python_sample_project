@@ -1,0 +1,2 @@
+st='rajesh'
+print(st)
